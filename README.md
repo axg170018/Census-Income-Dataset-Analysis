@@ -9,7 +9,7 @@ The dataset has been added here as well along with a detailed report of our find
 
 
 To know more about the data :
- This data was extracted from the census bureau database found at
+ This data was extracted from the census bureau database found at:
 | http://www.census.gov/ftp/pub/DES/www/welcome.html
 | Donor: Terran Lane and Ronny Kohavi
 |        Data Mining and Visualization
